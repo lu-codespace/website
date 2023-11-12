@@ -1,9 +1,22 @@
 ---
 title: "About"
 code-tools: true
+image: assets/images/profile.png
+image-shape: circle
+about:
+    template: broadside
+    links:
+    - icon: github
+      text: github
+      href: https://github.com/lu-codespace
+    - icon: envelope
+      text: e-mail us
+      href: mailto:Mathias.Johansson@kultur.lu.se, philipp_jonas.kreutzer@ekh.lu.se?subject=TheCodeSpace"
 ---
 
 __*CodeSpace*__ is a support group for coding, early career researchers
-from the humanities and social sciences and is a collaboration between
-the Department of Arts and Cultural Sciences and the Department of
-Economic History at Lund Universty.
+from the Humanities and Social sciences.
+
+The forum is hosted by the
+the Department of Arts and Cultural Sciences in close collaboration with
+the Department of Economic History at Lund Universty.
