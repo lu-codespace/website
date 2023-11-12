@@ -3,4 +3,7 @@ title: "About"
 code-tools: true
 ---
 
-About this site
+__*CodeSpace*__ is a support group for coding, early career researchers
+from the humanities and social sciences and is a collaboration between
+the Department of Arts and Cultural Sciences and the Department of
+Economic History at Lund Universty.

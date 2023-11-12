@@ -1,16 +1,31 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "CodeSpace"
+  title: "The CodeSpace"
+  search: false
+  repo-url: https://github.com/lu-codespace/website
+  repo-actions: [edit, issue]
+  favicon: github
+
+  page-footer: |
+     ![LU-logo](/assets/images/LundUniversity_C2line_BLACK.svg)
+
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    right:
       - about.qmd
+    # tools:
+    #   - icon: github
+    #     menu:
+    #     - text: Source Code
+    #       url: https://github.com/lu-codespace/website
+    #     - text: Report a problem
+    #       url: https://github.com/lu-codespace/website/issues/new
+
 
 format:
   html:
-    theme: slate
+    theme: lux
     css: styles.css
     toc: true

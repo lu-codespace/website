@@ -1,0 +1,7 @@
+---
+title: Page Not Found
+---
+
+Welcome to the CodeSpace, the page you requested cannot be found.
+
+Perhaps it was moved or renamed, if the problem please contact through the "Report an issue" link at the bottom of the page!

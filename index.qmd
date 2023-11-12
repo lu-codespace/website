@@ -1,8 +1,10 @@
 ---
-title: "CodeSpace"
+title: "Welcome to the CodeSpace"
 code-tools: true
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is a new forum created for early career researchers
+primarily from the Humanities and Social sciences to meet and
+discuss coding, machine learning and all the tools, techniques
+that go along with it -- and of course to write and review
+code.
