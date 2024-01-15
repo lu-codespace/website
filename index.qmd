@@ -3,18 +3,19 @@ title: "Welcome to the CodeSpace"
 code-tools: true
 ---
 
-This newly ceated forum is aimed at early career researchers
-primarily from the Humanities and Social sciences to meet and
-discuss coding, machine learning and all the tools, techniques
-that go along with it -- and of course to write and review
-code together.
+We created __*CodeSpace*__ to be a safe and inclusive space for
+discussing coding and research practices, with an emphasis on the coding.
+The initiative was created with early career researchers who code in mind,
+but we are happy to welcome anyone as we discuss coding and machine learning
+practices, intersting tools and review each other's code.
 
-The initiative behind __*The CodSpace*__ is undertaken by
+![](assets/images/profile.png)
+
+The __*The CodeSpace*__ is undertaken by
 [Mathias Johansson](https://portal.research.lu.se/en/persons/mathias-johansson)
 and
-[Philipp Jonas Kreutzer](https://portal.research.lu.se/en/persons/philipp-jonas-kreutzer)
-.
+[Philipp Jonas Kreutzer](https://portal.research.lu.se/en/persons/philipp-jonas-kreutzer).
 
-The first meeting will be held on 2023-12-15T15:15, please get in
-[contact](mailto:Mathias.Johansson@kultur.lu.se, philipp_jonas.kreutzer@ekh.lu.se?subject=TheCodeSpace)
-if you wish to participate!
+Get in
+[contact](mailto:Mathias.Johansson@kultur.lu.se?subject=TheCodeSpace)
+if you are interested in participating or have any questions about the initiative.

@@ -14,9 +14,14 @@ about:
       href: mailto:Mathias.Johansson@kultur.lu.se, philipp_jonas.kreutzer@ekh.lu.se?subject=TheCodeSpace"
 ---
 
-__*CodeSpace*__ is a support group for coding, early career researchers
-from the Humanities and Social sciences.
 
-The forum is hosted by the
+We are a moteley-crew that share two passions: coding and research.
+As early career researchers in fields that do not traditionally deal a
+whole lot with coding and programming, we identified the need for a
+platform where we can openly exchange ideas and learn from each other.
+__*CodeSpace*__ is is that that platform.
+
+
+__*CodeSpace*__  is hosted by the
 the Department of Arts and Cultural Sciences in close collaboration with
 the Department of Economic History at Lund Universty.

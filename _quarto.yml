@@ -14,7 +14,12 @@ website:
 
   navbar:
     right:
+      - text: archive
+        href: archive.qmd
       - about.qmd
+    left:
+      - href: meetings.qmd
+        text: schedule
 
 
 format:

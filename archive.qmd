@@ -1,0 +1,17 @@
+---
+title: "Past Meetings"
+listing:
+  - id: past
+    sort-ui: false
+    filter-ui: false
+    type: table
+    contents: meetings.yaml
+    fields: [date, time, loc]
+    field-display-names:
+      loc: Location
+    date-format: iso
+
+    sort: [semester desc, date asc]
+    exclude:
+      semester: "spring2024"
+---
